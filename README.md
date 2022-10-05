@@ -1,5 +1,6 @@
 # Aplicación Citas Mascotas
 ## Aplicación para gestionar las citas de mascotas
+### Vite + React
 ### Funcionalidades agregadas:
 #### Formulario de Citas
 #### Lista de Citas
